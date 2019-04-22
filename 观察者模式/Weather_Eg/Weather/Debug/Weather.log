@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Pratise\DesignPattern\Weather\Weather\WeatherData.h(18): warning C4018: “<”: 有符号/无符号不匹配
+  Weather.vcxproj -> E:\Pratise\DesignPattern\Weather\Debug\Weather.exe
